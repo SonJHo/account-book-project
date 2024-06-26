@@ -1,0 +1,28 @@
+2024-06-13T11:22:47.043479200>> (Deposit) Plus(+) 30000
+current balance:30000
+2024-06-13T11:23:20.622494400>> (Purchase) product:[Raspberry Pi Pico W] ,price:8400 ,quantity:1
+2024-06-13T11:23:20.629493800>> (Withdraw) Minus(-) 8400
+current balance:21600
+2024-06-13T11:23:41.618728300>> (Purchase) product:breadboard ,price:850 ,quantity:1
+2024-06-13T11:23:41.619728600>> (Withdraw) Minus(-) 850
+current balance:20750
+2024-06-13T11:23:55.027678300>> (Purchase) product:[DS-1010] ,price:5300 ,quantity:1
+2024-06-13T11:23:55.028678700>> (Withdraw) Minus(-) 5300
+current balance:15450
+2024-06-13T11:25:09.809182200>> (Purchase) product:[header]Single 1x40Pin Straight(2.54mm) ,price:140 ,quantity:3
+2024-06-13T11:25:09.810181700>> (Withdraw) Minus(-) 420
+current balance:15030
+2024-06-13T11:25:34.466832200>> (Purchase) product:[socket]Single 1x40 Straight(2.54mm) ,price:480 ,quantity:1
+2024-06-13T11:25:34.466832200>> (Withdraw) Minus(-) 480
+current balance:14550
+2024-06-13T11:26:32.916766600>> (Purchase) product:lead(70G, SN45) ,price:4900 ,quantity:1
+2024-06-13T11:26:32.917765900>> (Withdraw) Minus(-) 4900
+current balance:9650
+2024-06-13T11:27:03.934200200>> (Purchase) product:delivery charge ,price:4735 ,quantity:1
+2024-06-13T11:27:03.935199900>> (Withdraw) Minus(-) 4735
+current balance:4915
+2024-06-14T11:44:59.947776300>> (Withdraw) Minus(-) 0
+current balance:4915
+2024-06-26T23:15:48.645354400>> (Purchase) product:Micro USB 5P Cable(1M) ,price:3470 ,quantity:1
+2024-06-26T23:15:48.653355800>> (Withdraw) Minus(-) 3470
+current balance:1445

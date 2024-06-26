@@ -1,0 +1,8 @@
+[Raspberry Pi Pico W]                                 8400   1      8400
+breadboard                                             850   1       850
+[DS-1010]                                             5300   1      5300
+[header]Single 1x40Pin Straight(2.54mm)                140   3       420
+[socket]Single 1x40 Straight(2.54mm)                   480   1       480
+lead(70G, SN45)                                       4900   1      4900
+delivery charge                                       4735   1      4735
+Micro USB 5P Cable(1M)                                3470   1      3470
